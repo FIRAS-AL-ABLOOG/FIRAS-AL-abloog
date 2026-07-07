@@ -1,22 +1,33 @@
 # Hi there, I'm Firas! 👋
 
-### 🚀 Junior Frontend Developer | Programmer
-I love building responsive web layouts from scratch using **Pure CSS** and exploring the logic behind **JavaScript**.
+🚀 **Full-Stack Developer | Problem Solver**
 
-- 🛠️ **Skills:** HTML5, CSS3, JavaScript, Bootstrap (Learning Node.js)
-- 📽️ **Projects:** Creator of "code Journey" series on YouTube.
-- 🥊 **Interests:** Boxing & Physical Fitness.
-- 📍 **Location:** Syria, Damascus.
+I am a passionate Full-Stack Developer who loves crafting responsive web experiences from scratch. I specialize in building robust front-end layouts using **Pure CSS & JavaScript** and powering them with secure, scalable back-end logic using **Node.js & Express.js**. With a solid foundation in both hardware and software troubleshooting, I bring a unique, comprehensive approach to solving technical challenges.
 
 ---
 
-### 📊 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=FIRAS-AL-ABLOOG&show_icons=true&theme=radical)
+### 🛠️ Skills & Technologies
 
-### 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FIRAS-AL-ABLOOG&layout=compact&theme=radical)
+* **Front-End:** HTML5, CSS3, JavaScript (ES6+), Responsive Web Design (Vanilla Logic)
+* **Back-End:** Node.js, Express.js, API Development & Integration
+* **Tools & Deployment:** Git, GitHub, Android Studio, Capacitor / Cordova (Mobile Builds)
 
-### 🔗 Connect with me:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@firas-alabloog)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/firas_alabloog/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/mohamad.firas.740652)
+---
+
+### 💻 Featured Projects
+
+* **CoreCraft:** A comprehensive mobile services application featuring utility tools like a currency converter, built and optimized for seamless performance.
+* **DevDamascus:** My personal portfolio platform showcasing my web development journey, clean code standards, and custom UI designs.
+
+---
+
+### 🥊 Beyond Coding
+
+When I'm not writing code or building APIs, you'll probably find me:
+* Training in the boxing ring or working on my physical fitness.
+* Fueling my coding sessions with a hot cup of ginger-lemon green tea.
+* Exploring the latest trends in full-stack architecture.
+
+---
+
+### 🌐 Connect with me:
